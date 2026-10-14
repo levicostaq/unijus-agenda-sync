@@ -1,0 +1,7 @@
+# Arquivos com segredo: NUNCA sobem pro GitHub.
+.env
+service-account.json
+
+# Lixo do Python
+__pycache__/
+*.pyc
